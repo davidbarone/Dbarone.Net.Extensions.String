@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  
+    <PackageId>Dbarone.Net.Extensions.String</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>David Barone</Authors>
+    <Company>Dbarone.com</Company>
+    <Description>A general collection of .NET string extension methods.</Description>
+    <RepositoryUrl>https://github.com/davidbarone/Dbarone.Net.Extensions.String</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/davidbarone/Dbarone.Net.Extensions.String</PackageProjectUrl>
+  </PropertyGroup>
+</Project>
